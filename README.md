@@ -5,4 +5,4 @@ Solving Einstein's Enigma in C++ by encoding the problem's constaints in CNF (us
 
 ### Compilation
 
-`cmake . && make`, then run without arguments.
+`cmake . && make`, then run without arguments. You may need to rebuild CaDiCal.
