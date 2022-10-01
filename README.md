@@ -1,7 +1,7 @@
 # SATEnigma
 Solving Einstein's Enigma in C++ by encoding the problem's constaints in CNF (using the CaDiCal SAT solver to solve the formula).
 
-![Preview of the program's output](https://imgur.com/a/oaSWxt2 "Output")
+![Preview](https://media.discordapp.net/attachments/1006625957177733162/1025418047764308059/unknown.png)
 
 ### Compilation
 
